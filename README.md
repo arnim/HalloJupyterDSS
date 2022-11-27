@@ -42,7 +42,7 @@ Folien auf [Google Slides](https://docs.google.com/presentation/d/1v-Dge4HxqJxgV
 
 #### GESIS Notebooks
 ![GESIS Notebooks](pics/GESISNotebooks.png)
-[Arbeitspapier](https://zenodo.org/record/7362188#.Y4Phki8w2Ld) für auf den [KonsortSWD Call for Ideas](https://www.konsortswd.de/aktuelles/neuigkeiten/call-sichtbarkeit-dateninfrastruktur/)
+Aus unserem [Arbeitspapier](https://zenodo.org/record/7362188#.Y4Phki8w2Ld)
 
 --- 
 ## Terms of Use
