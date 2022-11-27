@@ -1,5 +1,5 @@
 # Hallo [Jupyter](https://jupyter.org) *Notebooks* ;)
-## Jour Fixe: [DSS](https://www.gesis.org/en/institute/departments/data-services-for-the-social-sciences)
+## [DSS](https://www.gesis.org/en/institute/departments/data-services-for-the-social-sciences) - Jour Fixe 
 
 **Datum:** 28.11.2022
 
@@ -20,7 +20,10 @@
 <= Hier geht es los!
 --- 
 
-### Jupyter Notebooks & MyBinder
+
+### Weiterführende Ressourcen
+
+#### Jupyter Notebooks & [MyBinder](http://mybinder.org)
 
 - Vorlesung: [Folien](https://raw.githubusercontent.com/jobreu/reproducible-research-gesis-2022/main/slides/Binder.pdf), [Beispiel](https://github.com/arnim/ggplot2Demo)
 
@@ -28,8 +31,7 @@
 
 Materialien aus dem Workshop aus dem [Workshop](https://github.com/jobreu/reproducible-research-gesis-2022) *Tools and Workflows for Reproducible Research in the Quantitative Social Sciences*.
 
----
-### Weiterführende Ressourcen
+
 #### Die Grenzen von Notebooks verstehen
 
 > Understand why some people don't like notebooks, including how working in notebooks ties your hands in a lot of ways, the Python that you miss when you work in notebooks, why a nontrivial number of Python users find notebooks difficult, and more
@@ -37,12 +39,13 @@ Materialien aus dem Workshop aus dem [Workshop](https://github.com/jobreu/reprod
 => Joel Grus JupyterCon 2018 Vortrag [I don't like notebooks](https://conferences.oreilly.com/jupyter/jup-ny/public/schedule/detail/68282.html)
 
 
-#### Notebooks & Data
-Folien auf [Google Slides](https://docs.google.com/presentation/d/1v-Dge4HxqJxgVpo1PfNrFYF22oDTLrXaaBRW5hITrxo/edit?usp=sharing)
-
 #### GESIS Notebooks
 ![GESIS Notebooks](pics/GESISNotebooks.png)
-Aus unserem [Arbeitspapier](https://zenodo.org/record/7362188#.Y4Phki8w2Ld)
+Grafik aus dem [Arbeitspapier](https://zenodo.org/record/7362188#.Y4Phki8w2Ld): GESIS Notebooks *Online Reproducible Computational Analysis for the Social Sciences*
+
+
+#### Notebooks & Data
+Folien auf [Google Slides](https://docs.google.com/presentation/d/1v-Dge4HxqJxgVpo1PfNrFYF22oDTLrXaaBRW5hITrxo/edit?usp=sharing)
 
 --- 
 ## Terms of Use
