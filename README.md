@@ -29,11 +29,20 @@
 Materialien aus dem Workshop aus dem [Workshop](https://github.com/jobreu/reproducible-research-gesis-2022) *Tools and Workflows for Reproducible Research in the Quantitative Social Sciences*.
 
 ---
-### Die Grenzen von Notebooks verstehen
+### Weiterführende Ressourcen
+#### Die Grenzen von Notebooks verstehen
 
 > Understand why some people don't like notebooks, including how working in notebooks ties your hands in a lot of ways, the Python that you miss when you work in notebooks, why a nontrivial number of Python users find notebooks difficult, and more
 
 => Joel Grus JupyterCon 2018 Vortrag [I don't like notebooks](https://conferences.oreilly.com/jupyter/jup-ny/public/schedule/detail/68282.html)
+
+
+#### Notebooks & Data
+Folien auf [Google Slides](https://docs.google.com/presentation/d/1v-Dge4HxqJxgVpo1PfNrFYF22oDTLrXaaBRW5hITrxo/edit?usp=sharing)
+
+#### GESIS Notebooks
+![GESIS Notebooks](pics/GESISNotebooks.png)
+[Arbeitspapier](https://zenodo.org/record/7362188#.Y4Phki8w2Ld) für auf den [KonsortSWD Call for Ideas](https://www.konsortswd.de/aktuelles/neuigkeiten/call-sichtbarkeit-dateninfrastruktur/)
 
 --- 
 ## Terms of Use
